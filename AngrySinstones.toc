@@ -2,5 +2,6 @@
 ## Version: @project-version@
 ## Title: Angry Sinstones
 ## Notes: Adds a command to list sinstones in your backpack and the locations of the corresponding inquisitors
+## X-WoWI-ID: 25859
 
 Angry.lua
